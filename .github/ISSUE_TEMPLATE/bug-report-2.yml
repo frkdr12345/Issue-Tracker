@@ -28,7 +28,6 @@ body:
         - 1.9.5
         - 1.9.6
         - 1.9.7
-      default: 5
     validations:
       required: true
   - type: dropdown
