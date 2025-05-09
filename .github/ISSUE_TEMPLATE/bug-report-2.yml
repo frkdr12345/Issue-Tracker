@@ -41,7 +41,7 @@ body:
         - MacOS
         - Linux
   - type: dropdown
-    id: os
+    id: minecraft
     attributes:
       label: What Minecraft version were you on?
       multiple: false
